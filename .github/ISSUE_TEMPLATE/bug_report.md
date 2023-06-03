@@ -32,3 +32,6 @@ Add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+**If you want you can attach the log file found in**
+*InstallationFolder\app.log* or *InstallationFolder\app_alt.log*
