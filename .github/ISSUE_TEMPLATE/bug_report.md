@@ -7,6 +7,9 @@ assignees: BlyZeYT
 
 ---
 
+**Error (just paste it in)**
+
+
 **Describe the bug**
 What happened when the bug occured?
 
