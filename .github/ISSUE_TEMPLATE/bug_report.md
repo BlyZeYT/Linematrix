@@ -7,8 +7,10 @@ assignees: BlyZeYT
 
 ---
 
-**Error (just paste it in)**
-
+**Error**
+```
+Paste error here
+```
 
 **Describe the bug**
 What happened when the bug occured?
