@@ -42,3 +42,10 @@ body:
         - label: Windows 7
     validations:
       required: true
+  - type: textarea
+      id: additonal
+      attributes:
+        label: Additional context
+        description: Any other context that could be useful
+      validations:
+        required: false
