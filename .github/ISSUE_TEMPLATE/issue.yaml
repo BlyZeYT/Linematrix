@@ -28,17 +28,16 @@ body:
         - 1.0.0.0
     validations:
       required: true
-  - type: dropdown
+  - type: checkboxes
     id: windows
     attributes:
       label: Windows Version
-      description: On which windows version do you have the problem?
-      placeholder: Choose
+      description: On which windows version(s) do you have the problem?
       multiple: true
       options:
-        - Windows 11
-        - Windows 10
-        - Windows 8
-        - Windows 7
+        - label: Windows 11
+        - label: Windows 10
+        - label: Windows 8
+        - label: Windows 7
     validations:
       required: true
