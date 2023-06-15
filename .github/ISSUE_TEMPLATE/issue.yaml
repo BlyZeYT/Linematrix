@@ -11,7 +11,7 @@ body:
       description: Specify the error if this field is empty or attach the app.log file
     validations:
       required: false
-  - type: input
+  - type: textarea
     id: what-happened
     attributes:
       label: What happened?
