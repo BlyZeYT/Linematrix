@@ -4,13 +4,12 @@ labels: ["bug"]
 assignees:
   - BlyZeYT
 body:
-  - type: input
+  - type: textarea
     id: exception
     attributes:
       label: Error
-      description: Please paste the error in here
-    validations:
-      required: false
+      description: Please paste the error you encountered
+      render: shell
   - type: textarea
     id: what-happened
     attributes:
@@ -42,9 +41,3 @@ body:
         - Windows 7
     validations:
       required: true
-  - type: textarea
-    id: logs
-    attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
