@@ -1,5 +1,5 @@
 name: Bug Report
-description: File a bug report
+description: Create a report to help me improve this application
 labels: ["bug"]
 assignees:
   - BlyZeYT
@@ -8,7 +8,7 @@ body:
     id: error
     attributes:
       label: Error
-      description: Specify the error if this field is empty.
+      description: Specify the error if this field is empty or attach the app.log file
     validations:
       required: false
   - type: textarea
