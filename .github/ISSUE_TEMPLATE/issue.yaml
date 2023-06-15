@@ -9,7 +9,7 @@ body:
     attributes:
       label: Error
       description: Specify the error if this field is empty or attach the app.log file
-      value: "The log file found in <InstallationFolder>\app.log or <InstallationFolder>\app_alt.log"
+      value: "The log file found in <InstallationFolder>\\app.log or <InstallationFolder>\\app_alt.log"
     validations:
       required: false
   - type: textarea
