@@ -43,7 +43,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: additional_issue
+    id: additional
     attributes:
       label: Additional context
       description: Any other context that could be useful
