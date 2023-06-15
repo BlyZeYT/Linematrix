@@ -43,9 +43,9 @@ body:
     validations:
       required: true
   - type: textarea
-      id: additional_issue
-      attributes:
-        label: Additional context
-        description: Any other context that could be useful
-      validations:
-        required: false
+    id: additional_issue
+    attributes:
+      label: Additional context
+      description: Any other context that could be useful
+    validations:
+      required: false
