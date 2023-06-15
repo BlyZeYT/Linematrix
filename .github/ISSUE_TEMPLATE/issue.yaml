@@ -32,7 +32,8 @@ body:
   - type: dropdown
     id: windows
     attributes:
-      label: On which windows version do you have the problem?
+      label: Windows Version
+      description: On which windows version do you have the problem?
       multiple: true
       options:
         - Windows 11
