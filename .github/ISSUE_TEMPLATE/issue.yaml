@@ -5,11 +5,10 @@ assignees:
   - BlyZeYT
 body:
   - type: textarea
-    id: exception
+    id: error
     attributes:
       label: Error
-      description: Please paste the error you encountered
-      render: shell
+      description: Please paste the exception
   - type: textarea
     id: what-happened
     attributes:
